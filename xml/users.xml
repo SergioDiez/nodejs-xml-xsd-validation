@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Users>
+    <User>
+        <Id>1</Id>
+        <Name>Elliot</Name>
+        <Surname>Alderson</Surname>
+        <Email>test1@email.com</Email>
+        <Country>EEUU</Country>
+        <Profile>Admin</Profile>
+    </User>
+    <User>
+        <Id>2</Id>
+        <Name>Angela</Name>
+        <Surname>Moss</Surname>
+        <Email>test2@email.com</Email>
+        <Country>EEUU</Country>
+        <Profile>Moderator</Profile>
+    </User>
+    <User>
+        <Id>3</Id>
+        <Name>Crash</Name>
+        <Surname>Bandicoot</Surname>
+        <Email>test3@email.com</Email>
+        <Country>Spain</Country>
+        <Profile>Normal</Profile>
+    </User>
+</Users>

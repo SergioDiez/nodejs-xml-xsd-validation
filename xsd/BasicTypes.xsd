@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+    <xs:simpleType name="ProfileValues">
+        <xs:annotation>
+            <xs:documentation>Profile levels that the user can has</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Admin"/>
+            <xs:enumeration value="Moderator"/>
+            <xs:enumeration value="Normal"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
