@@ -10,8 +10,8 @@
     </User>
     <User>
         <Id>2</Id>
-        <Name>Angela</Name>
-        <Surname>Moss</Surname>
+        <Name>Esteban</Name>
+        <Surname>Trabajos</Surname>
         <Email>test2@email.com</Email>
         <Country>EEUU</Country>
         <Profile>Moderator</Profile>
@@ -21,6 +21,14 @@
         <Name>Crash</Name>
         <Surname>Bandicoot</Surname>
         <Email>test3@email.com</Email>
+        <Country>Spain</Country>
+        <Profile>Normal</Profile>
+    </User>
+    <User>
+        <Id>4</Id>
+        <Name>Pepe</Name>
+        <Surname>Pepin</Surname>
+        <Email>pepe@pepin.com</Email>
         <Country>Spain</Country>
         <Profile>Normal</Profile>
     </User>
