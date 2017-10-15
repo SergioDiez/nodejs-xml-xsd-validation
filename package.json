@@ -5,7 +5,6 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.2",
-    "xml": "^1.0.1",
     "xml2js": "^0.4.19",
     "xsd-schema-validator": "^0.5.0"
   },

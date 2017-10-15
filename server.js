@@ -2,7 +2,6 @@
 //Main declarations and dependencies
 const validator = require('xsd-schema-validator');
 const express = require('express');
-const xml = require('xml');
 const path = require('path');
 const xml2js = require('xml2js');
 const fs = require('fs');
